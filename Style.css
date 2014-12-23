@@ -1,0 +1,46 @@
+/***********\
+    Body
+\***********/
+body {
+  background-color: dodgerblue;
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-family: "Comic Sans MS";
+}
+p {
+  text-align: center;
+  color: black;
+  font-family: "arial black";
+  font-size: 25px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#copywrite {
+  font-size: 10px;
+  font-family: "arial black";
+  color: black;
+  text-align: center;
+  padding-top: 40px;
+}
+/**********\
+  Nav Bars
+\**********/
+
+nav li {
+  list-style: none;
+  display: inline;
+  margin: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav {
+  text-align: center;
+}
